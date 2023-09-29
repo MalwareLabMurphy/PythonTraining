@@ -1,6 +1,6 @@
 ##NB: Remove hashtag/octothorpe from beginning of a given command in order to execute.
 
-##Variable and if conditions
+##Variable and if conditions 
 
 #x=5
 #if x > 4:
