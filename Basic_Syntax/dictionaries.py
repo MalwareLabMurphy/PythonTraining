@@ -1,6 +1,6 @@
-##NB: Remove hashtag/octothorpe from beginning of a given command in order to execute.
+## NB: Remove hashtag/octothorpe from beginning of a given command in order to execute.
 
-##Use dictionaries to set KV pairs in Python. Created with curly brackets.
+## Use dictionaries to set KV pairs in Python. Created with curly brackets.
 
 #pet={
     #'name' : 'Murphy',
@@ -9,9 +9,9 @@
 #}
 #pet['name']
 
-##To make it look better, from pprint import pprint!
+## To make it look better, from pprint import pprint!
 
-##Delete entries from dictionary with "del"
+## Delete entries from dictionary with "del"
 
 #pet={
     #'name' : 'Murphy',
@@ -21,7 +21,7 @@
 #del pet['age']
 #print(pet)
 
-##Use "in" to determine if dictionary has certain key.
+## Use "in" to determine if dictionary has certain key.
 
 #pet={
     #'name' : 'Murphy',
@@ -33,7 +33,7 @@
 #else:
     #print("No name yet...")
     
-##List keys or values with .keys() or .values(). List items with items(), KV pairs represented as tuples.
+## List keys or values with .keys() or .values(). List items with items(), KV pairs represented as tuples.
 
 #pet={
     #'name' : 'Murphy',
@@ -44,7 +44,7 @@
 #for i in pet_items:
     #print(i)
     
-##List of dictionaries for use in PANDAS...
+## List of dictionaries for use in PANDAS...
 
 pets=[{
     'name' : 'Murphy',

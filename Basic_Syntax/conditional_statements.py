@@ -1,6 +1,6 @@
-##Order: IF > ELIF > ELSE
+## Order: IF > ELIF > ELSE
 
-##Age verification
+## Age verification
 
 age=7
 if age > 60:
